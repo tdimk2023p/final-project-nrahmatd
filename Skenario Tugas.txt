@@ -1,0 +1,9 @@
+Pre-Task
+Setup dan download project react JS dan atau login ke OutSystems
+Task 1
+Membuat aplikasi dengan menampilkan halaman kosong
+Task 2
+Membuat aplikasi dengan menampilkan halaman daftar siswa
+
+- React JS vs Low Code OutSystems.
+- Partisipan nya relevan (Programmer Professional, Anak SMK maupun Mahasiswa).
