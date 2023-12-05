@@ -48,7 +48,7 @@ Email : tugasimkrahmat@gmail.com
 Password : tugas!MK1234
 ```
 
-Setelah partisipan selesai mengerjakan tugas-tugas di atas. Partisipan di minta untuk mengisi formulir survey berdasarkan NASA Task Load Index (TLX) yaitu dengan kategoeri sebagai berikut:
+Setelah partisipan selesai mengerjakan tugas-tugas di atas. Partisipan di minta untuk mengisi [formulir survey](https://forms.gle/XpA4qQTVYR9pgsia6) berdasarkan NASA Task Load Index (TLX) yaitu dengan kategoeri sebagai berikut:
 
 ![Nasa Skor](Assets/Nasa-Skor.png)
 
